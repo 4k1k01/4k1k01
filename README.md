@@ -2,7 +2,7 @@
 
 I am an indie full-stack developer passionate about building innovative and functional web applications. As a striving JavaScript and Python developer, I am constantly improving my skills in two of the most widely used programming languages. My technical expertise enables me to handle both front-end and back-end development, making me a versatile and resourceful programmer.
 
-## 🧰 Languages and Tools
+## Languages and Tools 👾
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
